@@ -2,7 +2,7 @@
 
 Android app that helps farmers manage and navigate their fields using **Mapbox** maps.  
 Users can register, view their fields, and track agricultural activities easily.
-
+ 
 ## Features
 - User login & registration (Firebase Authentication)
 - Mapbox map view with colored field boundaries
