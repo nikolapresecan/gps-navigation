@@ -20,6 +20,6 @@ Users can register, view their fields, and track agricultural activities easily.
 1. Clone this repository
 2. Open in Android Studio
 3. Add:
-    google-services.json → inside /app
-    Mapbox token in gradle.properties and in settings.gradle
-    Sync Gradle and run the app
+    - google-services.json → inside /app
+    - Mapbox token in gradle.properties and in settings.gradle
+    - Sync Gradle and run the app
