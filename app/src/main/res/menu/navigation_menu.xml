@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_header"
+        android:title=""
+        android:enabled="false"
+        android:textColor="@android:color/white"/>
+
+    <item
+        android:id="@+id/nav_pocetna"
+        android:title="Početna"
+        android:textColor="@android:color/white"/>
+
+    <item
+        android:id="@+id/nav_polja"
+        android:title="Polja"
+        android:textColor="@android:color/white"/>
+
+    <!--<item
+        android:id="@+id/nav_postavke"
+        android:title="Postavke" />-->
+
+    <item
+        android:id="@+id/nav_odjava"
+        android:title="Odjava"
+        android:textColor="@android:color/white"/>
+</menu>
